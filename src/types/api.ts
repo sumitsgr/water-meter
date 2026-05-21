@@ -20,6 +20,7 @@ export type Meta = {
 export type User = Entity<{
   username?: string;
   role_id?: number;
+  role_name?: string;
   status?: number;
   created_at?: string;
   firstName?: string;

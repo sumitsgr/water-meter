@@ -5,6 +5,7 @@ import { formatDate } from '@/utils/format';
 import { useUsers } from '../api/get-users';
 
 import { DeleteUser } from './delete-user';
+import { UpdateUser } from './update-user';
 
 export const UsersList = () => {
   const usersQuery = useUsers();
@@ -35,7 +36,17 @@ export const UsersList = () => {
         },
         {
           title: 'Role',
-          field: 'role_id',
+          field: 'role_name',
+          Cell({ entry }) {
+            return <span>{entry.role_name || entry.role_id || '-'}</span>;
+          },
+        },
+        {
+          title: 'Status',
+          field: 'status',
+          Cell({ entry: { status } }) {
+            return <span>{status === 1 ? 'Active' : 'Inactive'}</span>;
+          },
         },
         {
           title: 'Created At',
@@ -47,8 +58,13 @@ export const UsersList = () => {
         {
           title: '',
           field: 'id',
-          Cell({ entry: { id } }) {
-            return <DeleteUser id={id} />;
+          Cell({ entry }) {
+            return (
+              <div className="flex items-center gap-2">
+                <UpdateUser user={entry} />
+                <DeleteUser id={entry.id} />
+              </div>
+            );
           },
         },
       ]}

@@ -6,7 +6,7 @@ import { MutationConfig } from '@/lib/react-query';
 import { getUsersQueryOptions } from './get-users';
 
 export type DeleteUserDTO = {
-  userId: string;
+  userId: string | number;
 };
 
 export const deleteUser = ({ userId }: DeleteUserDTO) => {
