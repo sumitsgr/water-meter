@@ -1,0 +1,215 @@
+--- New Log File, Date: May 10, 2024, Time: 4:20:17 PM GMT+5:30 ---
+ { Date: May 10, 2024, Time: 4:20:17 PM GMT+5:30, Gateway_Data: {"id":"663dfbe92246070001cb949b","endDevice":{"devEui":"8C83FC05005D972C","devAddr":"023EBFE4","cluster":{"id":179}},"fPort":100,"fCntDown":0,"fCntUp":2,"adr":true,"confirmed":false,"encrypted":false,"payload":"c4fa3d66002aab0400301d3d66b4a9040000000000000000003e00550029007f000900000000001400000000001e00","encodingType":"HEXA","recvTime":1715338217370,"gwRecvTime":1715338217370,"classB":false,"delayed":false} }
+--- --- --- --- --- --- --- --- --- --- --- ---
+
+ { Date: May 10, 2024, Time: 4:20:19 PM GMT+5:30, Gateway_Data: {"id":"663dfbeb2246070001cb94a0","endDevice":{"devEui":"8C83FC05005D99CE","devAddr":"0235EFF6","cluster":{"id":179}},"fPort":100,"fCntDown":46,"fCntUp":323,"adr":true,"confirmed":false,"encrypted":false,"payload":"b4fb3d6610f68c0600301d3d66f68c0600000000000000000000000000000000000000000000000000000000000000","encodingType":"HEXA","recvTime":1715338219587,"gwRecvTime":1715338219587,"classB":false,"delayed":false} }
+--- --- --- --- --- --- --- --- --- --- --- ---
+
+ { Date: May 10, 2024, Time: 4:31:39 PM GMT+5:30, Gateway_Data: {"id":"663dfe942246070001cb99c5","endDevice":{"devEui":"8C83FC05005D9E24","devAddr":"023D808A","cluster":{"id":179}},"fPort":100,"fCntDown":7,"fCntUp":53,"adr":true,"confirmed":false,"encrypted":false,"payload":"39fd3d6610ec560000301d3d66815600000000000000000000000000005d000e000000000000000000000000000000","encodingType":"HEXA","recvTime":1715338899825,"gwRecvTime":1715338899825,"classB":false,"delayed":false} }
+--- --- --- --- --- --- --- --- --- --- --- ---
+
+ { Date: May 10, 2024, Time: 4:31:40 PM GMT+5:30, Gateway_Data: {"id":"663dfe942246070001cb99c6","endDevice":{"devEui":"8C83FC05005DD4B3","devAddr":"023D3320","cluster":{"id":179}},"fPort":100,"fCntDown":12,"fCntUp":70,"adr":true,"confirmed":false,"encrypted":false,"payload":"18fe3d660012410400301d3d66283f0400000000000000000000007000da0073002d00000000000000000000000000","encodingType":"HEXA","recvTime":1715338900504,"gwRecvTime":1715338900504,"classB":false,"delayed":false} }
+--- --- --- --- --- --- --- --- --- --- --- ---
+
+ { Date: May 10, 2024, Time: 4:31:40 PM GMT+5:30, Gateway_Data: {"id":"663dfe952246070001cb99c9","endDevice":{"devEui":"8C83FC05005D9E0C","devAddr":"023D62E1","cluster":{"id":179}},"fPort":100,"fCntDown":8,"fCntUp":57,"adr":true,"confirmed":false,"encrypted":false,"payload":"2dfd3d6610d81c0000301d3d66d81c0000000000000000000000000000000000000000000000000000000000000000","encodingType":"HEXA","recvTime":1715338901024,"gwRecvTime":1715338901024,"classB":false,"delayed":false} }
+--- --- --- --- --- --- --- --- --- --- --- ---
+
+ { Date: May 10, 2024, Time: 4:31:41 PM GMT+5:30, Gateway_Data: {"id":"663dfe962246070001cb99cb","endDevice":{"devEui":"8C83FC0500612201","devAddr":"023D9E05","cluster":{"id":179}},"fPort":100,"fCntDown":9,"fCntUp":60,"adr":true,"confirmed":false,"encrypted":false,"payload":"68f53d6600a5310400301d3d66982e0400000000000000000000000200bf019400000000000000b800000000000000","encodingType":"HEXA","recvTime":1715338901853,"gwRecvTime":1715338901853,"classB":false,"delayed":false} }
+--- --- --- --- --- --- --- --- --- --- --- ---
+
+ { Date: May 10, 2024, Time: 4:31:53 PM GMT+5:30, Gateway_Data: {"id":"663dfea22246070001cb99e3","endDevice":{"devEui":"8C83FC05005FA376","devAddr":"023CF575","cluster":{"id":179}},"fPort":100,"fCntDown":8,"fCntUp":81,"adr":true,"confirmed":false,"encrypted":false,"payload":"0df63d66101c700100301d3d66e16f01000000000000000000080005002d0000000100000000000000000000000000","encodingType":"HEXA","recvTime":1715338913854,"gwRecvTime":1715338913854,"classB":false,"delayed":false} }
+--- --- --- --- --- --- --- --- --- --- --- ---
+
+ { Date: May 10, 2024, Time: 4:37:45 PM GMT+5:30, Gateway_Data: {"id":"663e00012246070001cb9c8e","endDevice":{"devEui":"8C83FC05005D9828","devAddr":"023D6308","cluster":{"id":179}},"fPort":100,"fCntDown":12,"fCntUp":65,"adr":true,"confirmed":false,"encrypted":false,"payload":"35ff3d6610de540200402b3d66e75202000000000000000000c6005e000000bb001500030000000000000000000000","encodingType":"HEXA","recvTime":1715339265386,"gwRecvTime":1715339265386,"classB":false,"delayed":false} }
+--- --- --- --- --- --- --- --- --- --- --- ---
+
+ { Date: May 10, 2024, Time: 4:37:59 PM GMT+5:30, Gateway_Data: {"id":"663e00102246070001cb9caa","endDevice":{"devEui":"8C83FC05005FA5EC","devAddr":"023D7583","cluster":{"id":179}},"fPort":100,"fCntDown":0,"fCntUp":59,"adr":true,"confirmed":false,"encrypted":false,"payload":"a5f53d66105fdd0200301d3d665bdd0200000000000000000000000300010000000000000000000000000000000000","encodingType":"HEXA","recvTime":1715339279849,"gwRecvTime":1715339279849,"classB":false,"delayed":false} }
+--- --- --- --- --- --- --- --- --- --- --- ---
+
+ { Date: May 10, 2024, Time: 4:38:01 PM GMT+5:30, Gateway_Data: {"id":"663e00122246070001cb9cb0","endDevice":{"devEui":"8C83FC05006130C3","devAddr":"0239D4E0","cluster":{"id":179}},"fPort":101,"fCntDown":23,"fCntUp":189,"adr":true,"confirmed":false,"encrypted":false,"payload":"04ff891331fd17041344ff891344934d931e206201","encodingType":"HEXA","recvTime":1715339282112,"gwRecvTime":1715339282112,"classB":false,"delayed":false} }
+--- --- --- --- --- --- --- --- --- --- --- ---
+
+ { Date: May 10, 2024, Time: 4:38:06 PM GMT+5:30, Gateway_Data: {"id":"663e00172246070001cb9cb8","endDevice":{"devEui":"8C83FC0500611C11","devAddr":"023D62FF","cluster":{"id":179}},"fPort":100,"fCntDown":11,"fCntUp":67,"adr":true,"confirmed":false,"encrypted":false,"payload":"91f63d66100c460000301d3d66d3430000000000000000000000001b008d002a000000000000004000270100000000","encodingType":"HEXA","recvTime":1715339286733,"gwRecvTime":1715339286733,"classB":false,"delayed":false} }
+--- --- --- --- --- --- --- --- --- --- --- ---
+
+ { Date: May 10, 2024, Time: 4:38:08 PM GMT+5:30, Gateway_Data: {"id":"663e00192246070001cb9cbc","endDevice":{"devEui":"8C83FC05005DD157","devAddr":"023D808E","cluster":{"id":179}},"fPort":101,"fCntDown":7,"fCntUp":54,"adr":true,"confirmed":false,"encrypted":false,"payload":"04ff891331fd17041344ff891344934d931e206201","encodingType":"HEXA","recvTime":1715339288643,"gwRecvTime":1715339288643,"classB":false,"delayed":false} }
+--- --- --- --- --- --- --- --- --- --- --- ---
+
+ { Date: May 10, 2024, Time: 4:38:08 PM GMT+5:30, Gateway_Data: {"id":"663e00192246070001cb9cbe","endDevice":{"devEui":"8C83FC0500611B50","devAddr":"02320B3E","cluster":{"id":179}},"fPort":100,"fCntDown":94,"fCntUp":560,"adr":true,"confirmed":false,"encrypted":false,"payload":"1ef83d661052860200301d3d66c383020000000000000000001600b6008c0137000000000000000000000000000000","encodingType":"HEXA","recvTime":1715339288876,"gwRecvTime":1715339288876,"classB":false,"delayed":false} }
+--- --- --- --- --- --- --- --- --- --- --- ---
+
+ { Date: May 10, 2024, Time: 4:38:59 PM GMT+5:30, Gateway_Data: {"id":"663e004c2246070001cb9d17","endDevice":{"devEui":"8C83FC05005FAE50","devAddr":"023D18C4","cluster":{"id":179}},"fPort":100,"fCntDown":4,"fCntUp":72,"adr":true,"confirmed":false,"encrypted":false,"payload":"6cf63d6610cf680200301d3d660c680200000000000000000000004900580000002200000000000000000000000000","encodingType":"HEXA","recvTime":1715339340070,"gwRecvTime":1715339340070,"classB":false,"delayed":false} }
+--- --- --- --- --- --- --- --- --- --- --- ---
+
+ { Date: May 10, 2024, Time: 4:39:02 PM GMT+5:30, Gateway_Data: {"id":"663e004f2246070001cb9d1f","endDevice":{"devEui":"8C83FC05005FA61A","devAddr":"023D8E9C","cluster":{"id":179}},"fPort":100,"fCntDown":6,"fCntUp":51,"adr":true,"confirmed":false,"encrypted":false,"payload":"c0f63d661086570200301d3d6686570200000000000000000000000000000000000000000000000000000000000000","encodingType":"HEXA","recvTime":1715339342929,"gwRecvTime":1715339342929,"classB":false,"delayed":false} }
+--- --- --- --- --- --- --- --- --- --- --- ---
+
+ { Date: May 10, 2024, Time: 4:39:38 PM GMT+5:30, Gateway_Data: {"id":"663e00732246070001cb9d68","endDevice":{"devEui":"8C83FC05005FAB43","devAddr":"023D5923","cluster":{"id":179}},"fPort":100,"fCntDown":8,"fCntUp":58,"adr":true,"confirmed":false,"encrypted":false,"payload":"23f73d6600523f0200301d3d66523f0200000000000000000000000000000000000000000000000000000000000000","encodingType":"HEXA","recvTime":1715339378949,"gwRecvTime":1715339378949,"classB":false,"delayed":false} }
+--- --- --- --- --- --- --- --- --- --- --- ---
+
+ { Date: May 10, 2024, Time: 4:39:39 PM GMT+5:30, Gateway_Data: {"id":"663e00742246070001cb9d69","endDevice":{"devEui":"8C83FC05005DD457","devAddr":"0231FBD9","cluster":{"id":179}},"fPort":100,"fCntDown":95,"fCntUp":552,"adr":true,"confirmed":false,"encrypted":false,"payload":"1bff3d6600664a0800402b3d665546080000000000000000008f00a50043000e018f00c50000000000000038000000","encodingType":"HEXA","recvTime":1715339380003,"gwRecvTime":1715339380003,"classB":false,"delayed":false} }
+--- --- --- --- --- --- --- --- --- --- --- ---
+
+ { Date: May 10, 2024, Time: 4:39:42 PM GMT+5:30, Gateway_Data: {"id":"663e00772246070001cb9d72","endDevice":{"devEui":"8C83FC05005DD17B","devAddr":"023A3936","cluster":{"id":179}},"fPort":100,"fCntDown":21,"fCntUp":166,"adr":true,"confirmed":false,"encrypted":false,"payload":"35003e66107f270000402b3d6671270000000000000000070000000000000000000000000005000000000002000000","encodingType":"HEXA","recvTime":1715339382663,"gwRecvTime":1715339382663,"classB":false,"delayed":false} }
+--- --- --- --- --- --- --- --- --- --- --- ---
+
+ { Date: May 10, 2024, Time: 4:39:44 PM GMT+5:30, Gateway_Data: {"id":"663e00792246070001cb9d76","endDevice":{"devEui":"8C83FC05005D9825","devAddr":"023D630E","cluster":{"id":179}},"fPort":100,"fCntDown":7,"fCntUp":57,"adr":true,"confirmed":false,"encrypted":false,"payload":"acff3d660039a30000402b3d668ba200000000000000000000000035004d002c000000000000000000000000000000","encodingType":"HEXA","recvTime":1715339384670,"gwRecvTime":1715339384670,"classB":false,"delayed":false} }
+--- --- --- --- --- --- --- --- --- --- --- ---
+
+ { Date: May 10, 2024, Time: 4:39:50 PM GMT+5:30, Gateway_Data: {"id":"663e007f2246070001cb9d84","endDevice":{"devEui":"8C83FC05005FB393","devAddr":"02323106","cluster":{"id":179}},"fPort":100,"fCntDown":88,"fCntUp":558,"adr":true,"confirmed":false,"encrypted":false,"payload":"f1f63d661029110300301d3d66ee0f0300000000000000000000000500360100000000000000000000000000000000","encodingType":"HEXA","recvTime":1715339390729,"gwRecvTime":1715339390729,"classB":false,"delayed":false} }
+--- --- --- --- --- --- --- --- --- --- --- ---
+
+ { Date: May 10, 2024, Time: 4:39:50 PM GMT+5:30, Gateway_Data: {"id":"663e007f2246070001cb9d85","endDevice":{"devEui":"8C83FC0500613144","devAddr":"023204E6","cluster":{"id":179}},"fPort":100,"fCntDown":65,"fCntUp":527,"adr":true,"confirmed":false,"encrypted":false,"payload":"68f63d66105cd50100301d3d669bd4010000000000000000000200b800070000000000000000000000000000000000","encodingType":"HEXA","recvTime":1715339391070,"gwRecvTime":1715339391070,"classB":false,"delayed":false} }
+--- --- --- --- --- --- --- --- --- --- --- ---
+
+ { Date: May 10, 2024, Time: 4:39:57 PM GMT+5:30, Gateway_Data: {"id":"663e00862246070001cb9d8a","endDevice":{"devEui":"8C83FC05005FAB0F","devAddr":"023D630A","cluster":{"id":179}},"fPort":100,"fCntDown":10,"fCntUp":63,"adr":true,"confirmed":false,"encrypted":false,"payload":"e0f73d6670f4cd0100301d3d660fcd010000000000000013001800150050001c000000000002001d0000001a000000","encodingType":"HEXA","recvTime":1715339397662,"gwRecvTime":1715339397662,"classB":false,"delayed":false} }
+--- --- --- --- --- --- --- --- --- --- --- ---
+
+ { Date: May 10, 2024, Time: 4:39:59 PM GMT+5:30, Gateway_Data: {"id":"663e00882246070001cb9d8f","endDevice":{"devEui":"8C83FC05005FA400","devAddr":"023C5C9B","cluster":{"id":179}},"fPort":100,"fCntDown":12,"fCntUp":131,"adr":true,"confirmed":false,"encrypted":false,"payload":"2ef73d66008c8b0200301d3d66618702000000000001000d00e10012013701d700010000000600030000000e000400","encodingType":"HEXA","recvTime":1715339400031,"gwRecvTime":1715339400031,"classB":false,"delayed":false} }
+--- --- --- --- --- --- --- --- --- --- --- ---
+
+ { Date: May 10, 2024, Time: 4:40:20 PM GMT+5:30, Gateway_Data: {"id":"663e009d2246070001cb9daf","endDevice":{"devEui":"8C83FC05005FB51E","devAddr":"023D22A3","cluster":{"id":179}},"fPort":100,"fCntDown":13,"fCntUp":82,"adr":true,"confirmed":false,"encrypted":false,"payload":"8bf63d66005f030500301d3d6661ff0400000000000000000000000e00120274016a00000000000000000000000000","encodingType":"HEXA","recvTime":1715339421189,"gwRecvTime":1715339421189,"classB":false,"delayed":false} }
+--- --- --- --- --- --- --- --- --- --- --- ---
+
+ { Date: May 10, 2024, Time: 4:40:20 PM GMT+5:30, Gateway_Data: {"id":"663e009d2246070001cb9db0","endDevice":{"devEui":"8C83FC05005D6948","devAddr":"023D6317","cluster":{"id":179}},"fPort":100,"fCntDown":9,"fCntUp":58,"adr":true,"confirmed":false,"encrypted":false,"payload":"9dff3d66106e2f0400402b3d660e2d04000000000000002d005400930004013c000000000006000000000006000000","encodingType":"HEXA","recvTime":1715339421232,"gwRecvTime":1715339421232,"classB":false,"delayed":false} }
+--- --- --- --- --- --- --- --- --- --- --- ---
+
+ { Date: May 10, 2024, Time: 4:40:21 PM GMT+5:30, Gateway_Data: {"id":"663e009e2246070001cb9db3","endDevice":{"devEui":"8C83FC05005FA4CE","devAddr":"023CF588","cluster":{"id":179}},"fPort":100,"fCntDown":8,"fCntUp":78,"adr":true,"confirmed":false,"encrypted":false,"payload":"37f73d660009310200301d3d66f72e0200000000000000000000003600460018000000000000008a00f40000000000","encodingType":"HEXA","recvTime":1715339421863,"gwRecvTime":1715339421863,"classB":false,"delayed":false} }
+--- --- --- --- --- --- --- --- --- --- --- ---
+
+ { Date: May 10, 2024, Time: 4:40:22 PM GMT+5:30, Gateway_Data: {"id":"663e009f2246070001cb9db6","endDevice":{"devEui":"8C83FC05005FAE20","devAddr":"023E2F8A","cluster":{"id":179}},"fPort":100,"fCntDown":4,"fCntUp":40,"adr":true,"confirmed":false,"encrypted":false,"payload":"3df63d6610e5fb0d00301d3d6662f60d00000000000000000000000901070473000000000000000000000000000000","encodingType":"HEXA","recvTime":1715339422744,"gwRecvTime":1715339422744,"classB":false,"delayed":false} }
+--- --- --- --- --- --- --- --- --- --- --- ---
+
+ { Date: May 10, 2024, Time: 4:40:26 PM GMT+5:30, Gateway_Data: {"id":"663e00a32246070001cb9db9","endDevice":{"devEui":"8C83FC05005D9AE5","devAddr":"023A3938","cluster":{"id":179}},"fPort":100,"fCntDown":31,"fCntUp":167,"adr":true,"confirmed":false,"encrypted":false,"payload":"9bff3d6610043f0100402b3d66523e01000000000000005400280000002c0002000000000003000000000005000000","encodingType":"HEXA","recvTime":1715339426923,"gwRecvTime":1715339426923,"classB":false,"delayed":false} }
+--- --- --- --- --- --- --- --- --- --- --- ---
+
+ { Date: May 10, 2024, Time: 4:40:34 PM GMT+5:30, Gateway_Data: {"id":"663e00aa2246070001cb9dc5","endDevice":{"devEui":"8C83FC05005DC485","devAddr":"023EADE0","cluster":{"id":179}},"fPort":100,"fCntDown":0,"fCntUp":8,"adr":true,"confirmed":false,"encrypted":false,"payload":"ff003e661086620900402b3d66365b0900000000000000310042024c02290268000000000000000000000000000000","encodingType":"HEXA","recvTime":1715339434428,"gwRecvTime":1715339434428,"classB":false,"delayed":false} }
+--- --- --- --- --- --- --- --- --- --- --- ---
+
+ { Date: May 10, 2024, Time: 4:40:36 PM GMT+5:30, Gateway_Data: {"id":"663e00ad2246070001cb9dc8","endDevice":{"devEui":"8C83FC05005FAFDC","devAddr":"023D7594","cluster":{"id":179}},"fPort":100,"fCntDown":6,"fCntUp":55,"adr":true,"confirmed":false,"encrypted":false,"payload":"54f63d66108ee80000301d3d6601e70000000000000000000000001700740102000000000000000000000000000000","encodingType":"HEXA","recvTime":1715339436682,"gwRecvTime":1715339436682,"classB":false,"delayed":false} }
+--- --- --- --- --- --- --- --- --- --- --- ---
+
+ { Date: May 10, 2024, Time: 4:40:38 PM GMT+5:30, Gateway_Data: {"id":"663e00af2246070001cb9dcd","endDevice":{"devEui":"8C83FC05005FB652","devAddr":"023E7031","cluster":{"id":179}},"fPort":100,"fCntDown":4,"fCntUp":20,"adr":true,"confirmed":false,"encrypted":false,"payload":"aaf63d6600490f0000301d3d663f0d000000000000000000000000ce0015000000ab00150003005c00080000000000","encodingType":"HEXA","recvTime":1715339439088,"gwRecvTime":1715339439088,"classB":false,"delayed":false} }
+--- --- --- --- --- --- --- --- --- --- --- ---
+
+ { Date: May 10, 2024, Time: 4:40:42 PM GMT+5:30, Gateway_Data: {"id":"663e00b22246070001cb9dd3","endDevice":{"devEui":"8C83FC05005FB501","devAddr":"02336140","cluster":{"id":179}},"fPort":100,"fCntDown":83,"fCntUp":527,"adr":true,"confirmed":false,"encrypted":false,"payload":"d7f73d661031890500301d3d66cf870500000000000000000000005600090103000000000000000000000000000000","encodingType":"HEXA","recvTime":1715339442379,"gwRecvTime":1715339442379,"classB":false,"delayed":false} }
+--- --- --- --- --- --- --- --- --- --- --- ---
+
+ { Date: May 10, 2024, Time: 4:40:43 PM GMT+5:30, Gateway_Data: {"id":"663e00b32246070001cb9dd5","endDevice":{"devEui":"8C83FC05006132A0","devAddr":"023D630B","cluster":{"id":179}},"fPort":100,"fCntDown":14,"fCntUp":67,"adr":true,"confirmed":false,"encrypted":false,"payload":"ecf63d66001da60200301d3d668da402000000000000000300360065004300ac000000000000000200000001000000","encodingType":"HEXA","recvTime":1715339443363,"gwRecvTime":1715339443363,"classB":false,"delayed":false} }
+--- --- --- --- --- --- --- --- --- --- --- ---
+
+ { Date: May 10, 2024, Time: 4:40:45 PM GMT+5:30, Gateway_Data: {"id":"663e00b62246070001cb9ddb","endDevice":{"devEui":"8C83FC0500611C20","devAddr":"023D808F","cluster":{"id":179}},"fPort":101,"fCntDown":8,"fCntUp":55,"adr":true,"confirmed":false,"encrypted":false,"payload":"04ff891331fd17041344ff891344934d931e206201","encodingType":"HEXA","recvTime":1715339445719,"gwRecvTime":1715339445719,"classB":false,"delayed":false} }
+--- --- --- --- --- --- --- --- --- --- --- ---
+
+ { Date: May 10, 2024, Time: 4:40:47 PM GMT+5:30, Gateway_Data: {"id":"663e00b82246070001cb9dde","endDevice":{"devEui":"8C83FC05006121E0","devAddr":"023EB1FF","cluster":{"id":179}},"fPort":100,"fCntDown":0,"fCntUp":5,"adr":true,"confirmed":false,"encrypted":false,"payload":"47f83d661022440100301d3d661f440100000000000000000000000000000003000000000000000000000000000000","encodingType":"HEXA","recvTime":1715339448032,"gwRecvTime":1715339448032,"classB":false,"delayed":false} }
+--- --- --- --- --- --- --- --- --- --- --- ---
+
+ { Date: May 10, 2024, Time: 4:40:54 PM GMT+5:30, Gateway_Data: {"id":"663e00be2246070001cb9dec","endDevice":{"devEui":"8C83FC05005DC41D","devAddr":"023D6315","cluster":{"id":179}},"fPort":100,"fCntDown":11,"fCntUp":59,"adr":true,"confirmed":false,"encrypted":false,"payload":"3fff3d6610a7580600402b3d664d52060000000000000039002c007e04680108000000000003000000000004000000","encodingType":"HEXA","recvTime":1715339454428,"gwRecvTime":1715339454428,"classB":false,"delayed":false} }
+--- --- --- --- --- --- --- --- --- --- --- ---
+
+ { Date: May 10, 2024, Time: 4:40:54 PM GMT+5:30, Gateway_Data: {"id":"663e00bf2246070001cb9ded","endDevice":{"devEui":"8C83FC05005FB508","devAddr":"023C2345","cluster":{"id":179}},"fPort":100,"fCntDown":7,"fCntUp":104,"adr":true,"confirmed":false,"encrypted":false,"payload":"a7f63d66101d790000301d3d661b790000000000000000000000000100010000000000000000000000000000000000","encodingType":"HEXA","recvTime":1715339454730,"gwRecvTime":1715339454730,"classB":false,"delayed":false} }
+--- --- --- --- --- --- --- --- --- --- --- ---
+
+ { Date: May 10, 2024, Time: 4:40:56 PM GMT+5:30, Gateway_Data: {"id":"663e00c12246070001cb9df2","endDevice":{"devEui":"8C83FC050061210B","devAddr":"023E9BD9","cluster":{"id":179}},"fPort":100,"fCntDown":1,"fCntUp":11,"adr":true,"confirmed":false,"encrypted":false,"payload":"2bf83d66102d000000301d3d6621000000000000000000040000000000000000000000000000000400000004000000","encodingType":"HEXA","recvTime":1715339456963,"gwRecvTime":1715339456963,"classB":false,"delayed":false} }
+--- --- --- --- --- --- --- --- --- --- --- ---
+
+ { Date: May 10, 2024, Time: 4:40:58 PM GMT+5:30, Gateway_Data: {"id":"663e00c22246070001cb9df8","endDevice":{"devEui":"8C83FC05005D9B23","devAddr":"023D5927","cluster":{"id":179}},"fPort":100,"fCntDown":12,"fCntUp":59,"adr":true,"confirmed":false,"encrypted":false,"payload":"c0ff3d6610685b0300402b3d66065b030000000000000011000c000c00070001000000000019000000000018000000","encodingType":"HEXA","recvTime":1715339458612,"gwRecvTime":1715339458612,"classB":false,"delayed":false} }
+--- --- --- --- --- --- --- --- --- --- --- ---
+
+ { Date: May 10, 2024, Time: 4:41:10 PM GMT+5:30, Gateway_Data: {"id":"663e00cf2246070001cb9e08","endDevice":{"devEui":"8C83FC05005FA76F","devAddr":"023D456D","cluster":{"id":179}},"fPort":100,"fCntDown":9,"fCntUp":68,"adr":true,"confirmed":false,"encrypted":false,"payload":"07f73d6610919e0600301d3d66849a060000000000000000000000a6005b030c000000000000000000000000000000","encodingType":"HEXA","recvTime":1715339470669,"gwRecvTime":1715339470669,"classB":false,"delayed":false} }
+--- --- --- --- --- --- --- --- --- --- --- ---
+
+ { Date: May 10, 2024, Time: 4:41:21 PM GMT+5:30, Gateway_Data: {"id":"663e00da2246070001cb9e17","endDevice":{"devEui":"8C83FC05005D65F4","devAddr":"023D75A0","cluster":{"id":179}},"fPort":100,"fCntDown":12,"fCntUp":58,"adr":true,"confirmed":false,"encrypted":false,"payload":"4fff3d6610600e0200402b3d66ae0a0200000000000000500011016301d4001a000000000000000000000000000000","encodingType":"HEXA","recvTime":1715339481683,"gwRecvTime":1715339481683,"classB":false,"delayed":false} }
+--- --- --- --- --- --- --- --- --- --- --- ---
+
+ { Date: May 10, 2024, Time: 4:41:31 PM GMT+5:30, Gateway_Data: {"id":"663e00e32246070001cb9e27","endDevice":{"devEui":"8C83FC05005D979D","devAddr":"023EA31D","cluster":{"id":179}},"fPort":100,"fCntDown":1,"fCntUp":8,"adr":true,"confirmed":false,"encrypted":false,"payload":"4c013e661089c70400402b3d660ac604000000000000004c00a7003500430009000000000004000000000007000000","encodingType":"HEXA","recvTime":1715339491567,"gwRecvTime":1715339491567,"classB":false,"delayed":false} }
+--- --- --- --- --- --- --- --- --- --- --- ---
+
+ { Date: May 10, 2024, Time: 4:41:32 PM GMT+5:30, Gateway_Data: {"id":"663e00e52246070001cb9e2a","endDevice":{"devEui":"8C83FC05005D970E","devAddr":"023E5F2D","cluster":{"id":179}},"fPort":100,"fCntDown":4,"fCntUp":23,"adr":true,"confirmed":false,"encrypted":false,"payload":"18fe3d661079010000301d3d6679010000000000000000000000000000000000000000000000000000000000000000","encodingType":"HEXA","recvTime":1715339493179,"gwRecvTime":1715339493179,"classB":false,"delayed":false} }
+--- --- --- --- --- --- --- --- --- --- --- ---
+
+ { Date: May 10, 2024, Time: 4:41:35 PM GMT+5:30, Gateway_Data: {"id":"663e00e82246070001cb9e30","endDevice":{"devEui":"8C83FC05005D66AE","devAddr":"0233C263","cluster":{"id":179}},"fPort":101,"fCntDown":58,"fCntUp":452,"adr":true,"confirmed":false,"encrypted":false,"payload":"04ff891331fd17041344ff891344934d931e206201","encodingType":"HEXA","recvTime":1715339496239,"gwRecvTime":1715339496239,"classB":false,"delayed":false} }
+--- --- --- --- --- --- --- --- --- --- --- ---
+
+ { Date: May 10, 2024, Time: 4:41:36 PM GMT+5:30, Gateway_Data: {"id":"663e00e92246070001cb9e34","endDevice":{"devEui":"8C83FC05005D68C9","devAddr":"023D80A7","cluster":{"id":179}},"fPort":100,"fCntDown":12,"fCntUp":54,"adr":true,"confirmed":false,"encrypted":false,"payload":"98ff3d661015310100402b3d6606310100000000000000060000000000000000000000000005000000000004000000","encodingType":"HEXA","recvTime":1715339497183,"gwRecvTime":1715339497183,"classB":false,"delayed":false} }
+--- --- --- --- --- --- --- --- --- --- --- ---
+
+ { Date: May 10, 2024, Time: 4:41:39 PM GMT+5:30, Gateway_Data: {"id":"663e00eb2246070001cb9e3a","endDevice":{"devEui":"8C83FC05006133B5","devAddr":"023D8091","cluster":{"id":179}},"fPort":101,"fCntDown":3,"fCntUp":56,"adr":true,"confirmed":false,"encrypted":false,"payload":"04ff891331fd17041344ff891344934d931e206201","encodingType":"HEXA","recvTime":1715339499638,"gwRecvTime":1715339499638,"classB":false,"delayed":false} }
+--- --- --- --- --- --- --- --- --- --- --- ---
+
+ { Date: May 10, 2024, Time: 4:41:39 PM GMT+5:30, Gateway_Data: {"id":"663e00ec2246070001cb9e3b","endDevice":{"devEui":"8C83FC05005D6682","devAddr":"0232420F","cluster":{"id":179}},"fPort":100,"fCntDown":71,"fCntUp":508,"adr":true,"confirmed":false,"encrypted":false,"payload":"78003e6610d6a20200402b3d6675a102000000000000002200a0002f005c000f000000000005000000000000000000","encodingType":"HEXA","recvTime":1715339499743,"gwRecvTime":1715339499743,"classB":false,"delayed":false} }
+--- --- --- --- --- --- --- --- --- --- --- ---
+
+ { Date: May 10, 2024, Time: 4:41:42 PM GMT+5:30, Gateway_Data: {"id":"663e00ef2246070001cb9e3f","endDevice":{"devEui":"8C83FC05005FA620","devAddr":"023D6F3C","cluster":{"id":179}},"fPort":100,"fCntDown":8,"fCntUp":62,"adr":true,"confirmed":false,"encrypted":false,"payload":"7ef63d66103bd60500301d3d6683d40500000000000000000000000200800136000000000000000000000000000000","encodingType":"HEXA","recvTime":1715339503089,"gwRecvTime":1715339503089,"classB":false,"delayed":false} }
+--- --- --- --- --- --- --- --- --- --- --- ---
+
+ { Date: May 10, 2024, Time: 4:41:46 PM GMT+5:30, Gateway_Data: {"id":"663e00f32246070001cb9e47","endDevice":{"devEui":"8C83FC05005DD4EB","devAddr":"023D75A1","cluster":{"id":179}},"fPort":100,"fCntDown":10,"fCntUp":59,"adr":true,"confirmed":false,"encrypted":false,"payload":"9dff3d661012910200402b3d667c900200000000000000000000003e00580000000000000000000000000000000000","encodingType":"HEXA","recvTime":1715339507298,"gwRecvTime":1715339507298,"classB":false,"delayed":false} }
+--- --- --- --- --- --- --- --- --- --- --- ---
+
+ { Date: May 10, 2024, Time: 4:41:50 PM GMT+5:30, Gateway_Data: {"id":"663e00f62246070001cb9e4e","endDevice":{"devEui":"8C83FC05005FA74D","devAddr":"023C3399","cluster":{"id":179}},"fPort":100,"fCntDown":13,"fCntUp":99,"adr":true,"confirmed":false,"encrypted":false,"payload":"59f63d66105d780000301d3d663c780000000000000000000000000900180000000000000000000000000000000000","encodingType":"HEXA","recvTime":1715339510448,"gwRecvTime":1715339510448,"classB":false,"delayed":false} }
+--- --- --- --- --- --- --- --- --- --- --- ---
+
+ { Date: May 10, 2024, Time: 4:41:53 PM GMT+5:30, Gateway_Data: {"id":"663e00f92246070001cb9e55","endDevice":{"devEui":"8C83FC05006132C7","devAddr":"0231FB71","cluster":{"id":179}},"fPort":100,"fCntDown":105,"fCntUp":563,"adr":true,"confirmed":false,"encrypted":false,"payload":"3ff73d66106e000200301d3d6642ff0100000000000000000000004500e70000000000000000000000000000000000","encodingType":"HEXA","recvTime":1715339513569,"gwRecvTime":1715339513569,"classB":false,"delayed":false} }
+--- --- --- --- --- --- --- --- --- --- --- ---
+
+ { Date: May 10, 2024, Time: 4:42:02 PM GMT+5:30, Gateway_Data: {"id":"663e01032246070001cb9e69","endDevice":{"devEui":"8C83FC05006132DD","devAddr":"023E20C2","cluster":{"id":179}},"fPort":100,"fCntDown":7,"fCntUp":36,"adr":true,"confirmed":false,"encrypted":false,"payload":"c7f63d661077040100301d3d664b0401000000000000000000000010001c0000000000000000000000000000000000","encodingType":"HEXA","recvTime":1715339522778,"gwRecvTime":1715339522778,"classB":false,"delayed":false} }
+--- --- --- --- --- --- --- --- --- --- --- ---
+
+ { Date: May 10, 2024, Time: 4:42:06 PM GMT+5:30, Gateway_Data: {"id":"663e01072246070001cb9e72","endDevice":{"devEui":"8C83FC05005FAF22","devAddr":"023EA8A0","cluster":{"id":179}},"fPort":100,"fCntDown":0,"fCntUp":9,"adr":true,"confirmed":false,"encrypted":false,"payload":"b5f73d6610f7300e00301d3d6633280e0000000000000000000100c800840274024502be0000000000000000000000","encodingType":"HEXA","recvTime":1715339527181,"gwRecvTime":1715339527181,"classB":false,"delayed":false} }
+--- --- --- --- --- --- --- --- --- --- --- ---
+
+ { Date: May 10, 2024, Time: 4:44:48 PM GMT+5:30, Gateway_Data: {"id":"663e01a92246070001cb9f97","endDevice":{"devEui":"8C83FC05005DD21B","devAddr":"023A3E02","cluster":{"id":179}},"fPort":100,"fCntDown":20,"fCntUp":167,"adr":true,"confirmed":false,"encrypted":false,"payload":"8aff3d6610c1390200402b3d66d337020000000000000027009200210035006500000000002d00000000004d000000","encodingType":"HEXA","recvTime":1715339688873,"gwRecvTime":1715339688873,"classB":false,"delayed":false} }
+--- --- --- --- --- --- --- --- --- --- --- ---
+
+ { Date: May 10, 2024, Time: 4:44:53 PM GMT+5:30, Gateway_Data: {"id":"663e01ae2246070001cb9fa0","endDevice":{"devEui":"8C83FC0500613316","devAddr":"023D80AC","cluster":{"id":179}},"fPort":100,"fCntDown":7,"fCntUp":53,"adr":true,"confirmed":false,"encrypted":false,"payload":"0ff93d6600e8b30000301d3d669db300000000000000000000000011003a0000000000000000000000000000000000","encodingType":"HEXA","recvTime":1715339693963,"gwRecvTime":1715339693963,"classB":false,"delayed":false} }
+--- --- --- --- --- --- --- --- --- --- --- ---
+
+ { Date: May 10, 2024, Time: 4:44:58 PM GMT+5:30, Gateway_Data: {"id":"663e01b32246070001cb9faf","endDevice":{"devEui":"8C83FC05005FAC21","devAddr":"023D22B1","cluster":{"id":179}},"fPort":100,"fCntDown":10,"fCntUp":69,"adr":true,"confirmed":false,"encrypted":false,"payload":"c4f83d66108fb50100301d3d668fb50100000000000000000000000000000000000000000000000000000000000000","encodingType":"HEXA","recvTime":1715339698673,"gwRecvTime":1715339698673,"classB":false,"delayed":false} }
+--- --- --- --- --- --- --- --- --- --- --- ---
+
+ { Date: May 10, 2024, Time: 4:45:02 PM GMT+5:30, Gateway_Data: {"id":"663e01b72246070001cb9fb8","endDevice":{"devEui":"8C83FC05005DC4C8","devAddr":"023D632E","cluster":{"id":179}},"fPort":100,"fCntDown":13,"fCntUp":66,"adr":true,"confirmed":false,"encrypted":false,"payload":"fc013e660067df0500402b3d6673de050000000000000013001f00440020000100000000002d000000000030000000","encodingType":"HEXA","recvTime":1715339703239,"gwRecvTime":1715339703239,"classB":false,"delayed":false} }
+--- --- --- --- --- --- --- --- --- --- --- ---
+
+ { Date: May 10, 2024, Time: 4:51:38 PM GMT+5:30, Gateway_Data: {"id":"663e03422246070001cba2bb","endDevice":{"devEui":"8C83FC05006124DC","devAddr":"023D6351","cluster":{"id":179}},"fPort":100,"fCntDown":5,"fCntUp":57,"adr":true,"confirmed":false,"encrypted":false,"payload":"89f93d660084bc0000301d3d6684bc0000000000000000000000000000000000000000000000000000000000000000","encodingType":"HEXA","recvTime":1715340098353,"gwRecvTime":1715340098353,"classB":false,"delayed":false} }
+--- --- --- --- --- --- --- --- --- --- --- ---
+
+ { Date: May 10, 2024, Time: 4:51:39 PM GMT+5:30, Gateway_Data: {"id":"663e03442246070001cba2bd","endDevice":{"devEui":"8C83FC05005FB4FF","devAddr":"02335B0F","cluster":{"id":179}},"fPort":100,"fCntDown":166,"fCntUp":539,"adr":true,"confirmed":false,"encrypted":false,"payload":"edf83d66108d780600301d3d66c4750600000000000000000000005a009801ba001d00000000000000000000000000","encodingType":"HEXA","recvTime":1715340099668,"gwRecvTime":1715340099668,"classB":false,"delayed":false} }
+--- --- --- --- --- --- --- --- --- --- --- ---
+
+ { Date: May 10, 2024, Time: 4:51:43 PM GMT+5:30, Gateway_Data: {"id":"663e03482246070001cba2c6","endDevice":{"devEui":"8C83FC05006122EC","devAddr":"02335A9E","cluster":{"id":179}},"fPort":100,"fCntDown":206,"fCntUp":646,"adr":true,"confirmed":false,"encrypted":false,"payload":"2bfa3d6600d8620900301d3d66d25c090000000000010000000a000402610135001b0003000700340004001100ad01","encodingType":"HEXA","recvTime":1715340104039,"gwRecvTime":1715340104039,"classB":false,"delayed":false} }
+--- --- --- --- --- --- --- --- --- --- --- ---
+
+ { Date: May 10, 2024, Time: 4:51:47 PM GMT+5:30, Gateway_Data: {"id":"663e034b2246070001cba2cb","endDevice":{"devEui":"8C83FC05005FABE5","devAddr":"023209E5","cluster":{"id":179}},"fPort":100,"fCntDown":123,"fCntUp":706,"adr":true,"confirmed":false,"encrypted":false,"payload":"69f93d66005a911b00301d3d66c9841b0000000000000000004c00ce02f60481040000000000000000000000000000","encodingType":"HEXA","recvTime":1715340107598,"gwRecvTime":1715340107598,"classB":false,"delayed":false} }
+--- --- --- --- --- --- --- --- --- --- --- ---
+
+ { Date: May 10, 2024, Time: 5:04:11 PM GMT+5:30, Gateway_Data: {"id":"663e06342246070001cba83c","endDevice":{"devEui":"8C83FC050061312B","devAddr":"023C78DD","cluster":{"id":179}},"fPort":100,"fCntDown":7,"fCntUp":90,"adr":true,"confirmed":false,"encrypted":false,"payload":"34fd3d66005e7d0600301d3d662c7c0600000000000000000000000100310100000000000000000000000000000000","encodingType":"HEXA","recvTime":1715340851659,"gwRecvTime":1715340851659,"classB":false,"delayed":false} }
+--- --- --- --- --- --- --- --- --- --- --- ---
+
+ { Date: May 10, 2024, Time: 5:04:12 PM GMT+5:30, Gateway_Data: {"id":"663e06352246070001cba840","endDevice":{"devEui":"8C83FC05006130E9","devAddr":"023B0808","cluster":{"id":179}},"fPort":101,"fCntDown":15,"fCntUp":143,"adr":true,"confirmed":false,"encrypted":false,"payload":"04ff891331fd17041344ff891344934d931e206201","encodingType":"HEXA","recvTime":1715340853254,"gwRecvTime":1715340853254,"classB":false,"delayed":false} }
+--- --- --- --- --- --- --- --- --- --- --- ---
+
+ { Date: May 10, 2024, Time: 5:04:29 PM GMT+5:30, Gateway_Data: {"id":"663e06452246070001cba85a","endDevice":{"devEui":"8C83FC05006133B3","devAddr":"023D6394","cluster":{"id":179}},"fPort":100,"fCntDown":1,"fCntUp":57,"adr":true,"confirmed":false,"encrypted":false,"payload":"44fc3d661022ca0000301d3d6621ca0000000000000000000000000100000000000000000000000000000000000000","encodingType":"HEXA","recvTime":1715340869419,"gwRecvTime":1715340869419,"classB":false,"delayed":false} }
+--- --- --- --- --- --- --- --- --- --- --- ---
+
+ { Date: May 10, 2024, Time: 5:05:56 PM GMT+5:30, Gateway_Data: {"id":"663e069c2246070001cba8ff","endDevice":{"devEui":"8C83FC05005FAC0A","devAddr":"02335B6B","cluster":{"id":179}},"fPort":100,"fCntDown":105,"fCntUp":512,"adr":true,"confirmed":false,"encrypted":false,"payload":"35fd3d661020b50000301d3d6620b50000000000000000000000000000000000000000000000000000000000000000","encodingType":"HEXA","recvTime":1715340956337,"gwRecvTime":1715340956337,"classB":false,"delayed":false} }
+--- --- --- --- --- --- --- --- --- --- --- ---
+
+ { Date: May 10, 2024, Time: 5:09:02 PM GMT+5:30, Gateway_Data: {"id":"663e07562246070001cbaa6d","endDevice":{"devEui":"8C83FC05005FA3D9","devAddr":"023D63C6","cluster":{"id":179}},"fPort":100,"fCntDown":9,"fCntUp":59,"adr":true,"confirmed":false,"encrypted":false,"payload":"32fc3d661072f70400301d3d663cf5040000000000000001001b002f00e30102000000000001000000000005000000","encodingType":"HEXA","recvTime":1715341142424,"gwRecvTime":1715341142424,"classB":false,"delayed":false} }
+--- --- --- --- --- --- --- --- --- --- --- ---
+
+ { Date: May 10, 2024, Time: 5:10:47 PM GMT+5:30, Gateway_Data: {"id":"663e07c02246070001cbab11","endDevice":{"devEui":"8C83FC05005D98E0","devAddr":"023EAE19","cluster":{"id":179}},"fPort":100,"fCntDown":0,"fCntUp":6,"adr":true,"confirmed":false,"encrypted":false,"payload":"5a053e66104d9d0200402b3d664d9d0200000000000000000000000000000000000000000000000000000000000000","encodingType":"HEXA","recvTime":1715341248100,"gwRecvTime":1715341248100,"classB":false,"delayed":false} }
+--- --- --- --- --- --- --- --- --- --- --- ---
+
+ { Date: May 10, 2024, Time: 5:10:55 PM GMT+5:30, Gateway_Data: {"id":"663e07c72246070001cbab24","endDevice":{"devEui":"8C83FC05005DC6C8","devAddr":"023E57A3","cluster":{"id":179}},"fPort":100,"fCntDown":2,"fCntUp":24,"adr":true,"confirmed":false,"encrypted":false,"payload":"96053e6610bc0d0000402b3d66bc0d0000000000000000000000000000000000000000000000000000000000000000","encodingType":"HEXA","recvTime":1715341255460,"gwRecvTime":1715341255460,"classB":false,"delayed":false} }
+--- --- --- --- --- --- --- --- --- --- --- ---
+
+ { Date: May 10, 2024, Time: 5:11:56 PM GMT+5:30, Gateway_Data: {"id":"663e08052246070001cbab88","endDevice":{"devEui":"8C83FC05006123F7","devAddr":"02379FCC","cluster":{"id":179}},"fPort":100,"fCntDown":32,"fCntUp":271,"adr":true,"confirmed":false,"encrypted":false,"payload":"f3fd3d660032ab0300301d3d6697a8030000000000000037008e0045008200df000000000007000500000024000000","encodingType":"HEXA","recvTime":1715341316960,"gwRecvTime":1715341316960,"classB":false,"delayed":false} }
+--- --- --- --- --- --- --- --- --- --- --- ---
+
+ { Date: May 10, 2024, Time: 5:12:35 PM GMT+5:30, Gateway_Data: {"id":"663e082c2246070001cbabd2","endDevice":{"devEui":"8C83FC0500611B78","devAddr":"023E1700","cluster":{"id":179}},"fPort":100,"fCntDown":2,"fCntUp":36,"adr":true,"confirmed":false,"encrypted":false,"payload":"6afe3d661052860000402b3d6652860000000000000000000000000000000000000000000000000000000000000000","encodingType":"HEXA","recvTime":1715341355810,"gwRecvTime":1715341355810,"classB":false,"delayed":false} }
+--- --- --- --- --- --- --- --- --- --- --- ---
+
+ { Date: May 10, 2024, Time: 5:14:13 PM GMT+5:30, Gateway_Data: {"id":"663e088e2246070001cbac87","endDevice":{"devEui":"8C83FC05005DC1A3","devAddr":"023DCFAD","cluster":{"id":179}},"fPort":100,"fCntDown":5,"fCntUp":40,"adr":true,"confirmed":false,"encrypted":false,"payload":"0d093e6610c8e40200402b3d66c8e40200000000000000000000000000000000000000000000000000000000000000","encodingType":"HEXA","recvTime":1715341454105,"gwRecvTime":1715341454105,"classB":false,"delayed":false} }
+--- --- --- --- --- --- --- --- --- --- --- ---
+
+ { Date: May 10, 2024, Time: 5:15:21 PM GMT+5:30, Gateway_Data: {"id":"663e08d12246070001cbad01","endDevice":{"devEui":"8C83FC05005FA58B","devAddr":"023CA888","cluster":{"id":179}},"fPort":100,"fCntDown":10,"fCntUp":89,"adr":true,"confirmed":false,"encrypted":false,"payload":"28ff3d6610bf6b0500402b3d667e6a05000000000000001b006a00b900000003000000000000000000000000000000","encodingType":"HEXA","recvTime":1715341521505,"gwRecvTime":1715341521505,"classB":false,"delayed":false} }
