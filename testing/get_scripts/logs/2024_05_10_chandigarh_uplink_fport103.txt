@@ -1,2 +1,0 @@
---- New Log File, Date: May 10, 2024, Time: 5:11:22 PM GMT+5:30 ---
- { Date: May 10, 2024, Time: 5:11:22 PM GMT+5:30, Gateway_Data: {"id":"663e07e32246070001cbab4d","endDevice":{"devEui":"8C83FC05005DD09E","devAddr":"0231FD60","cluster":{"id":179}},"fPort":103,"fCntDown":91,"fCntUp":564,"adr":true,"confirmed":false,"encrypted":false,"payload":"60073e66b0","encodingType":"HEXA","recvTime":1715341283171,"gwRecvTime":1715341283171,"classB":false,"delayed":false} }
