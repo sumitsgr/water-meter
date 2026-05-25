@@ -1,0 +1,79 @@
+name: Deploy Backend to EC2
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'water-meter-api/**'
+      - '.github/workflows/deploy-backend.yml'
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+          cache-dependency-path: water-meter-api/package-lock.json
+
+      - name: Install dependencies locally
+        working-directory: water-meter-api
+        run: npm ci
+
+      - name: Syntax check
+        working-directory: water-meter-api
+        run: |
+          node --check src/app.js
+          node --check src/controllers/auth.controller.js
+          node --check src/controllers/user.controller.js
+
+      - name: Package backend
+        run: |
+          tar \
+            --exclude='node_modules' \
+            --exclude='.env' \
+            -czf water-meter-api.tar.gz \
+            water-meter-api
+
+      - name: Setup SSH
+        run: |
+          mkdir -p ~/.ssh
+          printf '%s\n' "${{ secrets.EC2_SSH_KEY }}" > ~/.ssh/ec2_key
+          chmod 600 ~/.ssh/ec2_key
+          ssh-keyscan -H "${{ secrets.EC2_HOST }}" >> ~/.ssh/known_hosts
+
+      - name: Upload backend to EC2
+        run: |
+          scp -i ~/.ssh/ec2_key water-meter-api.tar.gz \
+            "${{ secrets.EC2_USER }}@${{ secrets.EC2_HOST }}:/tmp/water-meter-api.tar.gz"
+
+      - name: Deploy on EC2
+        run: |
+          ssh -i ~/.ssh/ec2_key "${{ secrets.EC2_USER }}@${{ secrets.EC2_HOST }}" << 'EOF'
+          set -e
+
+          mkdir -p ~/apps
+          rm -rf ~/apps/water-meter-api
+          tar -xzf /tmp/water-meter-api.tar.gz -C ~/apps
+
+          cd ~/apps/water-meter-api
+          printf '%s\n' "${{ secrets.API_ENV }}" > .env
+
+          npm ci --omit=dev
+
+          if pm2 list | grep -q water-meter-api; then
+            pm2 restart water-meter-api
+          else
+            pm2 start ecosystem.config.cjs
+          fi
+
+          pm2 save
+          EOF
