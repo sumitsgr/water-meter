@@ -24,7 +24,10 @@ app.use('/api/users', userRoutes);
 
 // Health check
 app.get('/', (req, res) => {
-  res.json({ message: 'Water Meter API is running!' });
+  res.json({
+    message: 'Water Meter API is running!',
+    version: '1.0.1',
+  });
 });
 
 const PORT = process.env.PORT || 5000;
