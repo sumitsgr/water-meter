@@ -44,20 +44,43 @@ jobs:
             water-meter-api
 
       - name: Setup SSH
+        env:
+          EC2_HOST: ${{ secrets.EC2_HOST }}
+          EC2_SSH_KEY: ${{ secrets.EC2_SSH_KEY }}
         run: |
-          mkdir -p ~/.ssh
-          printf '%s\n' "${{ secrets.EC2_SSH_KEY }}" > ~/.ssh/ec2_key
-          chmod 600 ~/.ssh/ec2_key
-          ssh-keyscan -H "${{ secrets.EC2_HOST }}" >> ~/.ssh/known_hosts
+          set -e
+
+          if [ -z "$EC2_HOST" ]; then
+            echo "EC2_HOST secret is missing."
+            exit 1
+          fi
+
+          if [ -z "$EC2_SSH_KEY" ]; then
+            echo "EC2_SSH_KEY secret is missing."
+            exit 1
+          fi
+
+          mkdir -p "$HOME/.ssh"
+          printf '%s\n' "$EC2_SSH_KEY" > "$HOME/.ssh/ec2_key"
+          chmod 600 "$HOME/.ssh/ec2_key"
+
+          ssh-keyscan -T 30 -H "$EC2_HOST" >> "$HOME/.ssh/known_hosts"
 
       - name: Upload backend to EC2
+        env:
+          EC2_HOST: ${{ secrets.EC2_HOST }}
+          EC2_USER: ${{ secrets.EC2_USER }}
         run: |
-          scp -i ~/.ssh/ec2_key water-meter-api.tar.gz \
-            "${{ secrets.EC2_USER }}@${{ secrets.EC2_HOST }}:/tmp/water-meter-api.tar.gz"
+          scp -i "$HOME/.ssh/ec2_key" water-meter-api.tar.gz \
+            "$EC2_USER@$EC2_HOST:/tmp/water-meter-api.tar.gz"
 
       - name: Deploy on EC2
+        env:
+          EC2_HOST: ${{ secrets.EC2_HOST }}
+          EC2_USER: ${{ secrets.EC2_USER }}
+          API_ENV: ${{ secrets.API_ENV }}
         run: |
-          ssh -i ~/.ssh/ec2_key "${{ secrets.EC2_USER }}@${{ secrets.EC2_HOST }}" << 'EOF'
+          ssh -i "$HOME/.ssh/ec2_key" "$EC2_USER@$EC2_HOST" << EOF
           set -e
 
           mkdir -p ~/apps
@@ -65,7 +88,7 @@ jobs:
           tar -xzf /tmp/water-meter-api.tar.gz -C ~/apps
 
           cd ~/apps/water-meter-api
-          printf '%s\n' "${{ secrets.API_ENV }}" > .env
+          printf '%s\n' "$API_ENV" > .env
 
           npm ci --omit=dev
 
