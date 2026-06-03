@@ -31,7 +31,6 @@ export async function getAllAlarms(req, res) {
   }
 }
 
-
 export async function resolveAlarm(req, res) {
   try {
     const { id } = req.params;
