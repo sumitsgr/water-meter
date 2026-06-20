@@ -9,6 +9,7 @@ export const queryConfig = {
   },
 } satisfies DefaultOptions;
 
+
 export type ApiFnReturnType<FnType extends (...args: any) => Promise<any>> =
   Awaited<ReturnType<FnType>>;
 
