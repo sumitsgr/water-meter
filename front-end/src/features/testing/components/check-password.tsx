@@ -14,6 +14,8 @@ const CheckPassword = () => {
     }
   };
 
+  
+
   return (
     <div>
       <label htmlFor="Password">Password</label>
