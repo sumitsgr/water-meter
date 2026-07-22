@@ -11,10 +11,8 @@ To set up the app execute the following commands.
 
 ```bash
 git clone https://github.com/sumitsgr/water-meter.git
-cd front-end
-cd apps/react-vite
 cp .env.example .env
-yarn install
+npm install
 ```
 
 ##### `yarn dev`
