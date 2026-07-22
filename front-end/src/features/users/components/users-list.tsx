@@ -61,7 +61,7 @@ export const UsersList = () => {
           Cell({ entry }) {
             return (
               <div className="flex items-center gap-2">
-                <UpdateUser user={entry}  />
+                <UpdateUser user={entry} />
                 <DeleteUser id={entry.id} />
               </div>
             );

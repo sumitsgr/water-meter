@@ -1,4 +1,12 @@
-import { Bell, Gauge, Home, PanelLeft, Users, User2 } from 'lucide-react';
+import {
+  Bell,
+  Gauge,
+  Home,
+  PanelLeft,
+  Users,
+  User2,
+  HandMetal,
+} from 'lucide-react';
 import { useEffect, useState } from 'react';
 import { NavLink, useNavigate, useNavigation } from 'react-router';
 
@@ -94,6 +102,7 @@ export function DashboardLayout({ children }: { children: React.ReactNode }) {
       to: paths.app.users.getHref(),
       icon: Users,
     },
+    { name: 'Testing', to: paths.app.testing.getHref(), icon: HandMetal },
   ].filter(Boolean) as SideNavigationItem[];
 
   return (

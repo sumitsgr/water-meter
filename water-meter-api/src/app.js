@@ -10,6 +10,11 @@ import userRoutes from './routes/user.routes.js';
 
 dotenv.config();
 
+console.log("cwd:", process.cwd());
+console.log("dotenv DB_USER:", process.env.DB_USER);
+console.log("dotenv DB_HOST:", process.env.DB_HOST);
+console.log("dotenv DB_NAME:", process.env.DB_NAME);
+
 const app = express();
 
 app.use(cors());
