@@ -7,7 +7,7 @@ const TestingTwo = () => {
     <div>
       <div
         style={{
-          width: '10%',
+          width: '9%',
           height: '30vh',
           backgroundColor: color,
           alignItems: 'center',
