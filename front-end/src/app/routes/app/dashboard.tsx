@@ -32,7 +32,7 @@ const DashboardRoute = () => {
     <ContentLayout title="Dashboard">
       <div className="grid gap-4 sm:grid-cols-2 xl:grid-cols-4">
         <div className="rounded-md border bg-white p-4">
-          <p className="text-sm text-muted-foreground">Total Devices</p>
+          <p className="text-sm text-muted-foreground font-bold">Total Devices</p>
           <p className="mt-2 text-2xl font-semibold">
             {formatNumber(summary?.total_devices)}
           </p>
